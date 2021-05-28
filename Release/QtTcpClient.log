@@ -1,0 +1,9 @@
+﻿  moc QtTcpClient.h
+  moc AudioHandler.h
+  AudioHandler.cpp
+  QtTcpClient.cpp
+  main.cpp
+  qrc_QtTcpClient.cpp
+  moc_QtTcpClient.cpp
+  moc_AudioHandler.cpp
+  QtTcpClient.vcxproj -> E:\Workspace\QtTcpClient\Release\QtTcpClient.exe

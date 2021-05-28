@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (E:/Software/Qt5.14.2/5.14.2/msvc2017/bin/qmake)
+  uic QtTcpClient.ui
+  rcc QtTcpClient.qrc
+  moc QtTcpClient.h
+  moc AudioHandler.h
+   RCC: Warning: No resources in 'E:\Workspace\QtTcpClient\QtTcpClient.qrc'.
+  AudioHandler.cpp
+  QtTcpClient.cpp
+  main.cpp
+  qrc_QtTcpClient.cpp
+  moc_QtTcpClient.cpp
+  moc_AudioHandler.cpp
+  QtTcpClient.vcxproj -> E:\Workspace\QtTcpClient\Debug\QtTcpClient.exe
